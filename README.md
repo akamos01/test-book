@@ -1,3 +1,1 @@
-# 学习curl
-
-这是一本有关命令行工具curl用法的电子书教程。
+this is a test manual
